@@ -1,0 +1,19 @@
+.header {
+    background-color: #ededed;
+    border-bottom: 2px solid goldenrod;
+}
+
+.center {
+    text-align: center;
+}
+
+.propic {
+    object-fit: cover;
+    border-radius: 50%;
+    width: 256px;
+    height: 256px;
+}
+
+h2 {
+    color:goldenrod;
+}
