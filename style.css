@@ -1,11 +1,14 @@
 body {
     margin-top: 0;
     margin:auto;
-    max-width: 1120px;
+    max-width: 1136px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 header {
     background-color: #ededed;
+    border-bottom: 1px solid goldenrod;
 }
 
 .center {
@@ -39,5 +42,5 @@ h6 {
 }
 
 div {
-    border-bottom: 2px solid goldenrod;
+    border-bottom: 1px solid goldenrod;
 }
