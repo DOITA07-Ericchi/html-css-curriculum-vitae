@@ -10,6 +10,7 @@ body {
 header {
     background-color: #ededed;
     border-bottom: 1px solid goldenrod;
+    padding-top: 16px;
 }
 
 .center {
