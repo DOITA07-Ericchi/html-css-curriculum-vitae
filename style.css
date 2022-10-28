@@ -1,19 +1,43 @@
-.header {
+body {
+    margin-top: 0;
+    margin:auto;
+    max-width: 1120px;
+}
+
+header {
     background-color: #ededed;
-    border-bottom: 2px solid goldenrod;
 }
 
 .center {
     text-align: center;
 }
 
+.mini {
+    font-size: smaller;
+}
+
 .propic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     object-fit: cover;
     border-radius: 50%;
-    width: 256px;
-    height: 256px;
+    width: 200px;
+    height: 200px;
 }
 
 h2 {
-    color:goldenrod;
+    color: goldenrod;
+}
+
+h3 {
+    font-style: italic;
+}
+
+h6 {
+    text-align: center;
+}
+
+div {
+    border-bottom: 2px solid goldenrod;
 }
